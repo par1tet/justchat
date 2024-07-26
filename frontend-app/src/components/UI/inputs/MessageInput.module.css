@@ -2,10 +2,12 @@
     padding: 10px;
     font-size: 23px;
     background-color: rgb(11, 27, 34);
+    width: 70%;
     color: white;
 }
-.MessageInput::placeholder {
 
+.MessageForm {
+    width: 100%;
 }
 
 .MessageInput:enabled {
